@@ -6,7 +6,7 @@ Current Progress: 0%
 
 ## 📚 Syllabus
 
-
+- [ ] The Fundamentals
 
 ## 📂 Exercises & Files
 
