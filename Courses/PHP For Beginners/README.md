@@ -7,10 +7,10 @@ Current Progress: 0%
 ## 📚 Syllabus
 
 - [ ] The Fundamentals
-- [ ] How to Choose a Programming Language
 - [ ] Tools of the Trade
+- [ ] How to Choose a Programming Language
 - [ ] Your First PHP Tag
-- [ ] Variables
+- [ ] Variable
 
 ## 📂 Exercises & Files
 
