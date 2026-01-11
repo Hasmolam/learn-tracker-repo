@@ -1,8 +1,8 @@
 # PHP For Beginners
 
-Current Progress: 20%
+Current Progress: 0%
 
-![Progress](https://geps.dev/progress/20)
+![Progress](https://geps.dev/progress/0)
 
 ## 📚 Syllabus
 
@@ -10,7 +10,7 @@ Current Progress: 20%
 - [ ] Tools of the Trade
 - [ ] Your First PHP Tag
 - [ ] Variable
-- [x] How to Choose a Programming Language
+- [ ] How to Choose a Programming Language
 
 ## 📂 Exercises & Files
 
