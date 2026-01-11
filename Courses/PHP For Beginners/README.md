@@ -4,6 +4,8 @@ Current Progress: 0%
 
 ![Progress](https://geps.dev/progress/0)
 
+Laracast's PHP for Beginners Course
+
 ## 📚 Syllabus
 
 ### The Fundamentals
