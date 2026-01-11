@@ -7,7 +7,6 @@ Current Progress: 0%
 ## 📚 Syllabus
 
 - [ ]  How to Choose a Programming Language
-- [ ]  How to Choose a Programming Language
 
 ## 📂 Exercises & Files
 
