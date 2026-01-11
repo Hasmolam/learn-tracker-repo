@@ -6,4 +6,3 @@ Automated learning portfolio tracked via Learn Tracker.
 |---|---|---|---|
 | [PHP for Beginners](./Courses/PHP%20for%20Beginners) | ![Progress](https://geps.dev/progress/50) | 🚧 In Progress | [View](./Courses/PHP%20for%20Beginners) |
 | [java](./Courses/java) | ![Progress](https://geps.dev/progress/0) | 🚧 In Progress | [View](./Courses/java) |
-| [java](./Courses/java) | ![Progress](https://geps.dev/progress/0) | 🚧 In Progress | [View](./Courses/java) |
