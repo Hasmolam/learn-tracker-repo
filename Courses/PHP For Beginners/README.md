@@ -10,7 +10,7 @@ Current Progress: 0%
 - [ ] Tools of the Trade
 - [ ] How to Choose a Programming Language
 - [ ] Your First PHP Tag
-- [ ] Variable
+- [ ] Variables
 
 ## 📂 Exercises & Files
 
